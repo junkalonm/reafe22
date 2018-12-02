@@ -1,0 +1,7 @@
+C:\Users\Alon\source\repos\checkrepo\checkrepo\bin\Debug\checkrepo.exe.config
+C:\Users\Alon\source\repos\checkrepo\checkrepo\bin\Debug\checkrepo.exe
+C:\Users\Alon\source\repos\checkrepo\checkrepo\bin\Debug\checkrepo.pdb
+C:\Users\Alon\source\repos\checkrepo\checkrepo\obj\Debug\checkrepo.csprojAssemblyReference.cache
+C:\Users\Alon\source\repos\checkrepo\checkrepo\obj\Debug\checkrepo.csproj.CoreCompileInputs.cache
+C:\Users\Alon\source\repos\checkrepo\checkrepo\obj\Debug\checkrepo.exe
+C:\Users\Alon\source\repos\checkrepo\checkrepo\obj\Debug\checkrepo.pdb
